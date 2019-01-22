@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Лагуткин Евгений
@@ -46,11 +46,10 @@ career-profile:
 
 education:
     - degree: Математик, системный программист
-      university: КГУ им. Н.А. Некрасова, Кострома
+      university: КГУ им. Н.А. Некрасова
       time: 2009-2014
       details: |
-        Специалитет на кафедре прикладной математики и информатики
-          - test string
+          - 12 место на ACM ICPC 1/4 Центрального региона
 
 experiences:
     - role: Lead Developer
