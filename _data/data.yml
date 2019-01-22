@@ -133,6 +133,7 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
+    video: https://www.youtube.com/embed/5d_HYJH_aPE
     assignments:
       - title: YouTube
         link: "#"
