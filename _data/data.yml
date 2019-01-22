@@ -135,7 +135,7 @@ projects:
 
     assignments:
       - title: YouTube
-        link: "<iframe width="560" height="315" src="https://www.youtube.com/embed/5d_HYJH_aPE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>"
+        link: "#"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
       - title: DevStudio
