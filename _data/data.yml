@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Лагуткин Евгений
@@ -49,7 +49,7 @@ education:
       university: КГУ им. Н.А. Некрасова, Кострома
       time: 2009-2014
       details: |
-        Специалитет на кафедре прикладной математики и информатики |
+        Специалитет на кафедре прикладной математики и информатики
           - test string
 
 experiences:
