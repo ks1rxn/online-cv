@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: eugene.lagutkin@gmail.com
-    phone: +79995124239
+    phone: 89995124239
     website: ks1rxn.github.com #do not add http://
 
     languages:
@@ -34,15 +34,9 @@ sidebar:
     #     link:
 
 career-profile:
-    title: Career Profile
+    title: Резюме
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      Вступление
 
 education:
     - degree: Математик, системный программист
@@ -52,55 +46,30 @@ education:
           - 12 место на ACM ICPC 1/4 Центрального региона
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Unity Developer
+      time: 2014 - Present
+      company: Gear Games
+      website: aow3.gear-games.com
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Работа над MMORTS Art of War 3. Unity/C#. Основная зона ответственности - GUI
+          - Написание GUI с использованием NGUI
+          - Организация взаимодействия с сервером
+          - Создание системы автоматизированного тестирования сервера
 
-          - Bullet point
-          - Bullet point
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Programmer
+      time: 2013 - 2014
+      company: Exactpro Systems
+      website: exactpro.com
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        Разработка инструментов для тестирования ПО. Java, C++, bash
+          - Участие в разработке <a href="https://exactpro.com/test-tools/clearth" target="_blank">ClearTH</a>
+          - Участие в разработке <a href="https://exactpro.com/test-tools/sailfish" target="_blank">SailFish</a>
+          - Написание различных небольших инструментов для создания и прогона тестовых сценариев.
 
 projects:
-    title: Projects
+    title: Проекты
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Различные небольшие наработки созданные в свободное время
 
     video: https://www.youtube.com/embed/5d_HYJH_aPE
     assignments:
@@ -123,26 +92,6 @@ projects:
       - title: Delta
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
