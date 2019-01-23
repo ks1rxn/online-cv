@@ -73,7 +73,7 @@ projects:
 
     assignments:
       - title: SpaceHackathon
-        link: "github.com/ks1rxn/SpaceHackathon"
+        link: "https://github.com/ks1rxn/SpaceHackathon"
         tagline: "Космическая аркада с необычным способом убийства врагов"
 
       - title: Flying Cars
