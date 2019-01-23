@@ -53,8 +53,8 @@ experiences:
       details: |
         Работа над MMORTS Art of War 3. Используемые языки: Unity/C#, Java.
           - Написание GUI с использованием NGUI
-          - Организация взаимодействия с сервером
-          - Создание системы автоматизированного тестирования сервера
+          - Взаимодействие с сервером
+          - Создание системы автоматизированного тестирования сервера (Фактически упрощенная консольная версия клиента на java)
 
     - role: Programmer
       time: 2013 - 2014
@@ -71,30 +71,17 @@ projects:
     intro: >
       Различные небольшие наработки созданные в свободное время
 
-    video: https://www.youtube.com/embed/5d_HYJH_aPE
     assignments:
-      - title: YouTube
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: SpaceHackathon
+        link: "github.com/ks1rxn/SpaceHackathon"
+        tagline: "Космическая аркада с необычным способом убийства врагов"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Flying Cars
+        tagline: "Симуляция города будущего с летающими автомобилями. Автомобили взлетают с парковочных мест и летят к месту назначения в бесконечном цикле.
+          В автомобилях реализован алгоритм избегания столкновений."
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills
 
     toolset:
       - name: Python & Django

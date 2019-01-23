@@ -16,12 +16,6 @@
   </div><!--//intro-->
   {% endif %}
 
-  {% if projects.video %}
-  <div class="video">
-      <iframe width="560" height="315" src="{{ projects.video }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </div><!--//intro-->
-  {% endif %}
-
   {% for project in projects.assignments %}
     <div class="item">
 
@@ -31,6 +25,12 @@
 
       {% if project.tagline %}
       - <span class="project-tagline">{{ project.tagline }}</span>
+      {% endif %}
+
+      {% if project.video %}
+      <div class="video">
+          <iframe width="560" height="315" src="{{ project.video }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div><!--//intro-->
       {% endif %}
 
     </div><!--//item-->
