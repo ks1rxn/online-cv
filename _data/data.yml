@@ -51,7 +51,7 @@ experiences:
       company: Gear Games
       website: aow3.gear-games.com
       details: |
-        Работа над MMORTS Art of War 3. Unity/C#. Основная зона ответственности - GUI
+        Работа над MMORTS Art of War 3. Используемые языки: Unity/C#, Java.
           - Написание GUI с использованием NGUI
           - Организация взаимодействия с сервером
           - Создание системы автоматизированного тестирования сервера
@@ -61,7 +61,7 @@ experiences:
       company: Exactpro Systems
       website: exactpro.com
       details: |
-        Разработка инструментов для тестирования ПО. Java, C++, bash
+        Разработка инструментов для тестирования биржевого ПО. Используемые языки: Java, C++, bash
           - Участие в разработке <a href="https://exactpro.com/test-tools/clearth" target="_blank">ClearTH</a>
           - Участие в разработке <a href="https://exactpro.com/test-tools/sailfish" target="_blank">SailFish</a>
           - Написание различных небольших инструментов для создания и прогона тестовых сценариев.
