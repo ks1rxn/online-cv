@@ -23,7 +23,7 @@ sidebar:
       - idiom: English
         level: Intermediate
 
-    interests:
+    interests: |
       - AI
       - Shaders
       - Program architecture
