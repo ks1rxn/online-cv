@@ -24,17 +24,10 @@ sidebar:
         level: Intermediate
 
     interests:
-      - item: AI
-        link:
-
-      - item: Shaders
-        link:
-
-      - item: Program architecture
-        link:
-
-      - item: ECS
-        link:
+      - AI
+      - Shaders
+      - Program architecture
+      - ECS
 
 career-profile:
     title: Resume

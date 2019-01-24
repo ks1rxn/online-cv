@@ -6,7 +6,11 @@
     Professional Interests
   </h2>
 
-  <ul class="list-unstyled interests-list">
+  <div class="details">
+    {{ interests | markdownify }}
+  </div>
+
+  <!-- <ul class="list-unstyled interests-list">
     {% for interest in interests %}
 
       {% if interest.link %}
@@ -16,7 +20,7 @@
       {% endif %}
 
     {% endfor %}
-  </ul>
+  </ul> -->
 
 </div><!--//interests-->
 {% endif %}
