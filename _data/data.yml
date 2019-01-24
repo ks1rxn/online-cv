@@ -34,7 +34,7 @@ sidebar:
     #     link:
 
 career-profile:
-    title: Резюме
+    title: Resume
     summary: |
       Вступление
 
@@ -67,7 +67,7 @@ experiences:
           - Написание различных небольших инструментов для создания и прогона тестовых сценариев.
 
 projects:
-    title: Проекты
+    title: Projects
     intro: >
       Различные небольшие наработки созданные в свободное время
 
