@@ -23,15 +23,18 @@ sidebar:
       - idiom: English
         level: Intermediate
 
-    # interests:
-    #   - item: Climbing
-    #     link:
+    interests:
+      - item: AI
+        link:
 
-    #   - item: Snowboarding
-    #     link:
+      - item: Shaders
+        link:
 
-    #   - item: Cooking
-    #     link:
+      - item: Program architecture
+        link:
+
+      - item: ECS
+        link:
 
 career-profile:
     title: Resume
@@ -85,23 +88,35 @@ skills:
     title: Skills
 
     toolset:
-      - name: Python & Django
+      - name: C# & Unity
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: GIT
         level: 98%
 
-      - name: Angular
+      - name: NGUI
         level: 98%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Zenject
+        level: 80%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: SOLID
+        level: 80%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Java
+        level: 80%
+
+      - name: C++ & Directx
+        level: 40%
+
+      - name: Network
+        level: 30%
+
+      - name: ECS
+        level: 30%
+
+      - name: Shaders
+        level: 20%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
