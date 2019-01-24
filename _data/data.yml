@@ -89,31 +89,31 @@ skills:
 
     toolset:
       - name: C# & Unity
-        level: 98%
-
-      - name: GIT
-        level: 98%
+        level: 85%
 
       - name: NGUI
-        level: 98%
+        level: 85%
+
+      - name: GIT
+        level: 85%
 
       - name: Zenject
-        level: 80%
+        level: 65%
 
       - name: SOLID
-        level: 80%
+        level: 65%
 
       - name: Java
-        level: 80%
-
-      - name: C++ & Directx
-        level: 40%
+        level: 65%
 
       - name: Network
-        level: 30%
+        level: 50%
+
+      - name: C++ & Directx
+        level: 35%
 
       - name: ECS
-        level: 30%
+        level: 35%
 
       - name: Shaders
         level: 20%
