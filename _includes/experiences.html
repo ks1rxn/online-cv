@@ -19,12 +19,9 @@
         <div class="time">{{ experience.time }}</div>
       </div><!--//upper-row-->
 
-      <div class="company">{{ experience.company }}</div>
-      {% if experience.website %}
-      <div class="website"><i class="fas fa-globe-americas"></i>
-        <a href="http://{{ experience.website }}" target="_blank">{{ experience.website }}</a>
+      <div class="company">
+        <a href="http://{{ experience.website }}" target="_blank">{{ experience.company }}</a>
       </div>
-      {% endif %}
 
     </div><!--//meta-->
 
