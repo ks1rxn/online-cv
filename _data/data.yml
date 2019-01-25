@@ -76,6 +76,7 @@ projects:
         video: "https://www.youtube.com/embed/BPT7E_n17M0"
 
       - title: Flying Cars (2012)
+        link: "https://www.youtube.com/embed/roUSpOVoxN0"
         tagline: "Написан на C++, DirectX 9. Курсовая работа. Симуляция города будущего с летающими автомобилями. Автомобили взлетают с парковочных мест и летят к месту назначения в бесконечном цикле.
           Автомобили не врезаются друг в друга и в строения."
         video: "https://www.youtube.com/embed/roUSpOVoxN0"
