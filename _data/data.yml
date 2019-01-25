@@ -21,7 +21,7 @@ sidebar:
         level: Родной
 
       - idiom: English
-        level: Выше среднего
+        level: Upper Intermediate
 
     interests: |
       - AI
@@ -44,7 +44,7 @@ education:
 
 experiences:
     - role: Unity Developer
-      time: 2014 - Present
+      time: 2014 - Настоящее время
       company: Gear Games
       website: aow3.gear-games.com
       details: |
