@@ -83,7 +83,7 @@ experiences:
 projects:
     title: Проекты
     intro: >
-      Небольшие проекты созданные в свободное время. Самые законченные или интересные из них.
+      Небольшие проекты, созданные в свободное время. Самые законченные или интересные из них.
     assignments:
       - title: SpaceHackathon
         link: "https://github.com/ks1rxn/SpaceHackathon"
