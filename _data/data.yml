@@ -73,6 +73,7 @@ projects:
       - title: SpaceHackathon
         link: "https://github.com/ks1rxn/SpaceHackathon"
         tagline: "Unity/C#. Прототип космической аркады. Сейчас используется в качестве экспериментальной площадки для архитектурных экспериментов."
+        video: "https://www.youtube.com/embed/BPT7E_n17M0"
 
       - title: Flying Cars (2012)
         tagline: "Написан на C++, DirectX 9. Курсовая работа. Симуляция города будущего с летающими автомобилями. Автомобили взлетают с парковочных мест и летят к месту назначения в бесконечном цикле.
