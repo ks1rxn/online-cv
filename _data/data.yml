@@ -18,10 +18,10 @@ sidebar:
 
     languages:
       - idiom: Русский
-        level: Native
+        level: Родной
 
       - idiom: English
-        level: Intermediate
+        level: Выше среднего
 
     interests: |
       - AI
@@ -30,7 +30,7 @@ sidebar:
       - ECS
 
 career-profile:
-    title: Resume
+    title: Резюме
     summary: |
       Вступление
 
@@ -66,7 +66,7 @@ experiences:
           - Написание различных небольших инструментов для создания и прогона тестовых сценариев.
 
 projects:
-    title: Projects
+    title: Проекты
     intro: >
       Небольшие проекты созданные в свободное время. Самые законченные или интересные из них.
     assignments:
@@ -82,38 +82,12 @@ projects:
         video: "https://www.youtube.com/embed/roUSpOVoxN0"
 
 skills:
-    title: Skills
+    title: Навыки
 
-    toolset:
-      - name: C# & Unity
-        level: 70%
-
-      - name: NGUI
-        level: 70%
-
-      - name: GIT
-        level: 70%
-
-      - name: Zenject
-        level: 50%
-
-      - name: SOLID
-        level: 50%
-
-      - name: Java
-        level: 50%
-
-      - name: Network
-        level: 40%
-
-      - name: C++ & Directx
-        level: 30%
-
-      - name: ECS
-        level: 30%
-
-      - name: Shaders
-        level: 10%
+    toolset: |
+      - Хорошее знание: C# & Unity, NGUI, GIT
+      - Среднее знание: Zenject, SOLID, Java, Network
+      - Низкое знание: C++ & Directx, ECS, Shaders
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
