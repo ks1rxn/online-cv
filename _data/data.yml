@@ -62,7 +62,7 @@ experiences:
           - Взаимодействие с дизайнерами
           - Оптимизация клиента
           - Создание системы автоматизированного тестирования сервера (упрощенная консольная версия клиента на java)
-      video: "https://www.youtube.com/watch?v=_CCBpBDKIGw"
+      video: "https://www.youtube.com/embed/_CCBpBDKIGw"
 
     - role: Programmer
       time: 2013 - 2014
