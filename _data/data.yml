@@ -57,7 +57,7 @@ experiences:
       company: Gear Games
       website: aow3.gear-games.com
       details: |
-        Работа над MMORTS Art of War 3. Используемые языки: Unity/C#, Java.
+        Работа над MMORTS <a href="https://play.google.com/store/apps/details?id=com.geargames.aow" target="_blank">Art of War 3</a>. Используемые языки: Unity/C#, Java.
           - Написание GUI с использованием NGUI
           - Проработка и реализация взаимодействия с сервером
           - Взаимодействие с дизайнерами
